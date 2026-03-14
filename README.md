@@ -1,5 +1,5 @@
 # About Me:
-## Hi there 👋<br><br>My name is Héctor; I'm an Economist interested in R/Python & Data Science.<br><br>- 🔭 I'm working on CDD/KYC models for a top-40 US bank holding company.<br>- 🌱 I'm learning about Machine Learning (ML) techniques.<br>- 🚀 Academically, I'm also interested in Input-Output models and time series econometrics.<br>- 📈 I'm looking to collaborate on macroeconomic research.<br>- 📫 How to reach me: hromero9722@gmail.com
+## Hi there 👋<br><br>My name is Héctor; I'm an Economist interested in R/Python & Data Science.<br><br>- 🔭 I'm working on CDD/KYC models for a top-40 US bank holding company.<br>- 🌱 I'm learning about Machine Learning (ML) techniques.<br>- 🚀 Academically, I'm also interested in Input-Output models and Time Series econometrics.<br>- 📈 I'm looking to collaborate on macroeconomic research.<br>- 📫 How to reach me: hromero9722@gmail.com
 
 
 ## 🌐 Socials:
